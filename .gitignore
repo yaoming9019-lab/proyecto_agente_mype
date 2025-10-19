@@ -1,0 +1,7 @@
+01_data_original/
+03_resultados/
+02_data_anon/*.xlsx
+*.pyc
+__pycache__/
+.env
+
