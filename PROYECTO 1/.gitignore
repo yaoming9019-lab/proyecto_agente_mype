@@ -1,0 +1,11 @@
+01_data_original/
+02_data_anon/
+03_resultados/
+06_backup/
+*.hc
+*.7z
+*.zip
+*.pdf
+*.xlsx
+*.csv
+map_mypes.*
